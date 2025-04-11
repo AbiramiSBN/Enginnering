@@ -1,9 +1,3 @@
-Awesome. I’ll create a detailed markdown (.md) file covering all core, interdisciplinary, and niche engineering disciplines and their subfields. Each section will include definitions, real-world applications, technologies used, and educational/career insights, with sources like Wikipedia and other authoritative references.
-
-I'll also generate a table of contents with internal links to each section to make navigation easy for web viewing.
-
-I'll get started and let you know once the file is ready to explore.
-
 # Engineering Disciplines: Traditional, Interdisciplinary, and Niche Fields
 
 ## Table of Contents
